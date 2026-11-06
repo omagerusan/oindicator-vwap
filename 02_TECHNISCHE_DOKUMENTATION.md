@@ -1,4 +1,4 @@
-# Technische Dokumentation - VWAP Suite
+# Technische Dokumentation - oIndicator VWAP
 
 ## 1. Zweck
 

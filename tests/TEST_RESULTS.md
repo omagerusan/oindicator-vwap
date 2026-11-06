@@ -1,4 +1,4 @@
-# Test Results - VWAP Suite
+# Test Results - oIndicator VWAP
 
 Datum: 20.09.2026
 Skript: `src/VWAP_Suite.pine`

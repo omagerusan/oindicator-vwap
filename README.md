@@ -1,6 +1,6 @@
-# oTrade VWAP (TradingView, Pine v6)
+# oIndicator VWAP (TradingView, Pine v6)
 
-Overlay-Indikator: Daily, Weekly, Monthly, ATH, ATL und zwei Swing-VWAPs (High/Low). Chart-Titel: `oTrade VWAP`. Inputs stehen im Inputs-Tab, nicht in der Statuszeile.
+Overlay-Indikator: Daily, Weekly, Monthly, ATH, ATL und zwei Swing-VWAPs (High/Low). Chart-Titel: `oIndicator VWAP`. Inputs stehen im Inputs-Tab, nicht in der Statuszeile.
 
 - Kalenderanker: 00:00 UTC (Woche: Montag).
 - ATH/ATL: Anker an der Extremkerze, feste Intraday-Basis (Default 1m, HLC3).

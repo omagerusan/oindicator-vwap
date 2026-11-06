@@ -1,4 +1,4 @@
-# Testplan - TradingView VWAP Suite
+# Testplan - TradingView oIndicator VWAP
 
 ## Ziel
 

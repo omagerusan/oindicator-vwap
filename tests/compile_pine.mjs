@@ -13,7 +13,7 @@ const res = await fetch(url, {
     Accept: "application/json",
     Referer: "https://www.tradingview.com/",
     Origin: "https://www.tradingview.com",
-    "User-Agent": "Mozilla/5.0 VWAP-Suite-Live-Abnahme",
+    "User-Agent": "Mozilla/5.0 oindicator-vwap-compile",
   },
   body,
 });

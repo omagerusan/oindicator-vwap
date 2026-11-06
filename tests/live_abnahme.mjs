@@ -37,7 +37,7 @@ async function fetchKlines(base, symbol, interval, startMs, endMs) {
   let cursor = startMs;
   while (cursor < endMs) {
     const url = `${base}/klines?symbol=${symbol}&interval=${interval}&startTime=${cursor}&endTime=${endMs}&limit=1000`;
-    const res = await fetch(url, { headers: { "User-Agent": "otrade-indicator-vwap-live" } });
+    const res = await fetch(url, { headers: { "User-Agent": "oindicator-vwap-live" } });
     if (!res.ok) throw new Error(`${url} HTTP ${res.status}`);
     const rows = await res.json();
     if (!Array.isArray(rows) || rows.length === 0) break;

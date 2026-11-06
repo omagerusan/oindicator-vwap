@@ -1,10 +1,10 @@
-# TradingView VWAP Suite: UTC Periods, ATH, ATL und Swing
+# TradingView oIndicator VWAP: UTC Periods, ATH, ATL und Swing
 ## Detaillierte Produktspezifikation und Umsetzungsplan für eine Code-KI
 
 **Dokumentversion:** 1.0 - mit ausdrücklich gekennzeichneten Annahmen  
 **Stand der Dokumentationsprüfung:** 18. September 2026  
 **Zielplattform:** TradingView, Pine Script v6, Overlay im Hauptchart  
-**Arbeitstitel:** `VWAP Suite - UTC + ATH/ATL + Swing`  
+**Arbeitstitel:** `oIndicator VWAP - UTC + ATH/ATL + Swing`  
 **Status:** Planung und Architektur, kein fertig implementierter oder in TradingView kompilierter Indikator.
 
 > **Auftrag an die ausführende KI:** Implementiere den unten beschriebenen Kernumfang. Prüfe die technisch kritischen Teile zuerst mit kleinen Pine-Prototypen. Erfinde keine APIs, keine nicht vorhandene Historie und keine Genauigkeitsgarantien. Kennzeichne offene Produktentscheidungen. Optionale Erweiterungen dürfen nicht ungefragt eingebaut werden.

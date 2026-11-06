@@ -1,4 +1,4 @@
-# Implementation Notes - VWAP Suite
+# Implementation Notes - oIndicator VWAP
 
 Stand: 23.09.2026. Hauptskript: `src/VWAP_Suite.pine` (Pine v6).
 

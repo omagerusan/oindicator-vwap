@@ -1,5 +1,5 @@
 //@version=6
-indicator("oTrade VWAP", overlay = true, dynamic_requests = true, max_labels_count = 20)
+indicator("oIndicator VWAP", overlay = true, dynamic_requests = true, max_labels_count = 20)
 
 // Overlay-Engine im festen Berechnungs-Timeframe. Plots und Zeichenobjekte nur im Chart-Kontext.
 

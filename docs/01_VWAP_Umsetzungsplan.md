@@ -1,10 +1,10 @@
-# TradingView VWAP Suite: UTC Periods, ATH, ATL und Swing
+# TradingView oIndicator VWAP: UTC Periods, ATH, ATL und Swing
 ## Detaillierte Produktspezifikation und Umsetzungsplan für eine Code-KI
 
 **Dokumentversion:** 1.1 - Benutzerfreigaben fuer Anker und Swing  
 **Stand der Dokumentationspruefung:** 18. September 2026  
 **Zielplattform:** TradingView, Pine Script v6, Overlay im Hauptchart  
-**Arbeitstitel:** `VWAP Suite - UTC + ATH/ATL + Swing`  
+**Arbeitstitel:** `oIndicator VWAP - UTC + ATH/ATL + Swing`  
 **Status:** Fachliche Hauptspezifikation. Abschnitt 3-Defaults zu ATH/ATL-Anker und Swing-Anzahl sind durch V1.1 ersetzt.
 
 ### V1.1 verbindliche Abweichungen von den Plan-Defaults

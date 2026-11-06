@@ -1,4 +1,4 @@
-# Technische Dokumentation - VWAP Suite
+# Technische Dokumentation - oIndicator VWAP
 
 Pine Script v6 Overlay. Ein lauffaehiges Hauptskript: `src/VWAP_Suite.pine`.
 Zeitzone fuer Anker und Datumstexte: `UTC` (UTC+0). Chart-Zeitzone ist nur Anzeige.

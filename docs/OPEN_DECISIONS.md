@@ -1,4 +1,4 @@
-# Offene Entscheidungen - VWAP Suite
+# Offene Entscheidungen - oIndicator VWAP
 
 Status: V1-Freigaben und markierte temporaere Standards.
 Prioritaet: Benutzerentscheidung vor docs/01 vor docs/02.

@@ -1,4 +1,4 @@
-# Testplan VWAP Suite
+# Testplan oIndicator VWAP
 
 Abgeleitet aus docs/01 Abschnitt 20. Angepasst an V1.1: ATH/ATL-Extremkerze. Swing-VWAP ist seit 23.09.2026 nicht mehr Teil von `src/VWAP_Suite.pine`.
 Numerische Toleranz fuer identische abgeschlossene Inputdaten:

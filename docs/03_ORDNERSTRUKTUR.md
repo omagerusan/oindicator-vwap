@@ -1,7 +1,7 @@
 # Ordnerstruktur
 
 ```text
-otrade-indikator-vwap/
+oindicator-vwap/
   START_PROMPT.md
   TradingView_VWAP_Indikator_Umsetzungsplan.md
   README.md
